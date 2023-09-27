@@ -24,7 +24,7 @@
     <ClCompile Include="Prority_queue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Forward_list.cpp">
+    <ClCompile Include="Forward_listLW.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="List.cpp">
